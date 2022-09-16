@@ -22,6 +22,6 @@ To run the scripts use the following commands.
 |---|---|
 | node **ticket_delete.js** soft-delete {Ticket IDs} | Soft delete tickets in bulk. Ticket IDs is a comma separated list. |
 | node **ticket_delete.js** restore {Ticket IDs} | Restore tickets in bulk. Ticket IDs is a comma separated list. |
-| node **ticket_delete.js** permanently-delete {Ticket IDs}   Permanently delete tickets in bulk. Ticket IDs is a comma separated list. |
+| node **ticket_delete.js** permanently-delete {Ticket IDs} | Permanently delete tickets in bulk. Ticket IDs is a comma separated list. |
 | node **ticket_search.js** | Searches for ticket IDs needed to run **ticket_delete.js** |
 | node **ticket_export.js** | Exports tickets in bulk |

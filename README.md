@@ -2,11 +2,15 @@
 
 This project includes the following Zendesk scripts:
 
+Zendesk Support:
 - ticket_delete.js
-- ticket_search.js
-- ticket_export.js
 - ticket_export_incremental.js
+- ticket_search.js
 - ticket_subject.js
+- user_delete.js
+- user_search.js
+
+Zendesk Guide:
 - posts_export.js
 - posts_patch.js
 

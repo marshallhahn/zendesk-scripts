@@ -1,0 +1,12 @@
+# Example Redirects File
+- redirect_from: /hc/en-us/articles/23711594993684
+  redirect_status: 301
+  redirect_to: https://d3v-calendly.zendesk.com/hc/en-us/p/video-tutorials
+
+- redirect_from: /hc/en-us/articles/4405353242132
+  redirect_status: 301
+  redirect_to: https://d3v-calendly.zendesk.com/hc/en-us/p/video-tutorials
+
+- redirect_from: /hc/en-us/articles/4405353680788
+  redirect_status: 301
+  redirect_to: https://d3v-calendly.zendesk.com/hc/en-us/p/video-tutorials

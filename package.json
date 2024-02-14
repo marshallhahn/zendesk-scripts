@@ -8,6 +8,7 @@
     "dev/guide/community/posts_export": "NODE_ENV=development node zendesk_products/guide/community/posts_export.js",
     "dev/guide/community/posts_patch": "NODE_ENV=development node zendesk_products/guide/community/posts_patch.js",
     "dev/guide/articles/archive_articles": "NODE_ENV=development node zendesk_products/guide/articles/archive_articles.js",
+    "dev/guide/redirects/set_redirect_rules": "NODE_ENV=development node zendesk_products/guide/redirects/set_redirect_rules.js",
     "dev/support/ticket_delete": "NODE_ENV=development node zendesk_products/support/ticket_delete.js",
     "dev/support/ticket_export_incremental": "NODE_ENV=development node zendesk_products/support/ticket_export_incremental.js",
     "dev/support/ticket_search": "NODE_ENV=development node zendesk_products/support/ticket_search.js",
@@ -28,6 +29,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "dotenv-flow": "^3.2.0",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "yaml": "^2.3.4"
   }
 }

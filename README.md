@@ -13,6 +13,7 @@ Zendesk Support:
 Zendesk Guide:
 - posts_export.js
 - posts_patch.js
+- archive_articles.js
 
 **Usage**
 
